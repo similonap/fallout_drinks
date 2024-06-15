@@ -1,0 +1,247 @@
+[
+    {
+        "name": "Purified Water",
+        "description": "Clean water, free of radiation. A rare commodity in the wasteland, purified water is essential for survival, restoring health and quenching thirst without any harmful side effects.",
+        "alcohol": false,
+        "stats": {
+            "health": 40
+        },
+        "value": 20,
+        "weight": 0.5,
+        "image": "fo4_purified_water.png"
+    },
+    {
+        "name": "Dirty Water",
+        "description": "Water with a minor amount of radiation. Commonly found in the wasteland, it restores health but adds rads, making it a less desirable option for hydration.",
+        "alcohol": false,
+        "stats": {
+            "health": 20,
+            "rads": 5
+        },
+        "value": 5,
+        "weight": 0.5,
+        "image": "fo3_dirty_water.png"
+    },
+    {
+        "name": "Nuka-Cola",
+        "description": "The iconic pre-war soft drink, Nuka-Cola is a carbonated beverage that restores health and provides a small boost to Action Points. Its refreshing taste makes it a favorite among wastelanders.",
+        "alcohol": false,
+        "stats": {
+            "health": 20,
+            "AP": 10
+        },
+        "value": 10,
+        "weight": 1,
+        "image": "fallout4_nuka_cola.png"
+    },
+    {
+        "name": "Nuka-Cherry",
+        "description": "A cherry-flavored variant of the classic Nuka-Cola, this drink restores health, increases Action Points, and adds a small amount of rads. Its sweet taste is beloved by many.",
+        "alcohol": false,
+        "stats": {
+            "health": 20,
+            "AP": 10,
+            "rads": 5
+        },
+        "value": 15,
+        "weight": 1,
+        "image": "nuka_cherry.png"
+    },
+    {
+        "name": "Nuka-Cola Quantum",
+        "description": "A rare and powerful version of Nuka-Cola, Quantum significantly restores health and boosts Action Points. Its vibrant blue glow and unique flavor make it a prized find.",
+        "alcohol": false,
+        "stats": {
+            "health": 100,
+            "AP": 25
+        },
+        "value": 50,
+        "weight": 1,
+        "image": "fallout4_nuka_cola_quantum.png"
+    },
+    {
+        "name": "Beer",
+        "description": "A bottle of pre-war beer. This alcoholic beverage increases strength but decreases intelligence. It's a common drink for those looking to unwind after a long day in the wasteland.",
+        "alcohol": true,
+        "stats": {
+            "strength": 1,
+            "intelligence": -1
+        },
+        "value": 10,
+        "weight": 1,
+        "image": "beer.png"
+    },
+    {
+        "name": "Whiskey",
+        "description": "A bottle of pre-war whiskey. This strong drink temporarily increases strength and charisma but decreases intelligence. It's favored by many wastelanders for its warming effect.",
+        "alcohol": true,
+        "stats": {
+            "strength": 2,
+            "charisma": 1,
+            "intelligence": -1
+        },
+        "value": 20,
+        "weight": 1,
+        "image": "whiskey.png"
+    },
+    {
+        "name": "Wine",
+        "description": "A bottle of pre-war wine. This alcoholic beverage provides a minor boost to charisma but reduces intelligence. It's a more refined choice for those in the wasteland.",
+        "alcohol": true,
+        "stats": {
+            "charisma": 1,
+            "intelligence": -1
+        },
+        "value": 15,
+        "weight": 1,
+        "image": "wine.png"
+    },
+    {
+        "name": "Mutfruit Juice",
+        "description": "Freshly squeezed juice made from Mutfruit, a common wasteland fruit. It restores health and provides a small boost to endurance, making it a healthy choice for survival.",
+        "alcohol": false,
+        "stats": {
+            "health": 10,
+            "endurance": 1
+        },
+        "value": 10,
+        "weight": 0.5,
+        "image": "mutfruit_juice.png"
+    },
+    {
+        "name": "Gwinett Stout",
+        "description": "A specific brand of pre-war beer with unique effects. This stout increases strength and charisma but significantly decreases intelligence, making it a bold choice for wasteland adventurers.",
+        "alcohol": true,
+        "stats": {
+            "strength": 1,
+            "charisma": 1,
+            "intelligence": -2
+        },
+        "value": 20,
+        "weight": 1,
+        "image": "gwinett_stout.png"
+    },
+    {
+        "name": "Gwinett Ale",
+        "description": "Another popular brand from Gwinett Brewery. This ale provides a slight boost to strength while decreasing intelligence, a favorite among wastelanders.",
+        "alcohol": true,
+        "stats": {
+            "strength": 1,
+            "intelligence": -1
+        },
+        "value": 10,
+        "weight": 1,
+        "image": "gwinett_ale.png"
+    },
+    {
+        "name": "Nuka-Cola Dark",
+        "description": "A rare alcoholic version of Nuka-Cola found in the Nuka-World DLC. This drink provides unique buffs and is favored by those looking for a stronger drink.",
+        "alcohol": true,
+        "stats": {
+            "strength": 2,
+            "charisma": 1,
+            "intelligence": -1
+        },
+        "value": 30,
+        "weight": 1,
+        "image": "nuka-cola_dark.png"
+    },
+    {
+        "name": "Nuka-Cola Victory",
+        "description": "Another unique variant of Nuka-Cola, Victory provides a mix of health restoration and AP boost with a small radiation penalty.",
+        "alcohol": false,
+        "stats": {
+            "health": 30,
+            "AP": 20,
+            "rads": 5
+        },
+        "value": 25,
+        "weight": 1,
+        "image": "nuka-cola_victory.png"
+    },
+    {
+        "name": "Nuka-Cola Quartz",
+        "description": "Found in the Nuka-World DLC, this variant glows with a white hue and provides health restoration along with AP boost.",
+        "alcohol": false,
+        "stats": {
+            "health": 30,
+            "AP": 20,
+            "rads": 5
+        },
+        "value": 25,
+        "weight": 1,
+        "image": "nuka-cola_quartz.png"
+    },
+    {
+        "name": "Melon Juice",
+        "description": "Juice made from the melons found in the Commonwealth. It restores health and provides a minor buff to endurance.",
+        "alcohol": false,
+        "stats": {
+            "health": 15,
+            "endurance": 1
+        },
+        "value": 8,
+        "weight": 0.5,
+        "image": "melon_juice.png"
+    },
+    {
+        "name": "Irradiated Blood",
+        "description": "A vial of blood that restores health but adds a significant amount of radiation. Often used by those in desperate need of healing.",
+        "alcohol": false,
+        "stats": {
+            "health": 50,
+            "rads": 15
+        },
+        "value": 10,
+        "weight": 0.5,
+        "image": "irradiated_blood.png"
+    },
+    {
+        "name": "Silt Bean Tea",
+        "description": "A warm beverage brewed from silt beans. Restores health and provides a minor buff to intelligence, popular among wasteland scholars.",
+        "alcohol": false,
+        "stats": {
+            "health": 10,
+            "intelligence": 1
+        },
+        "value": 12,
+        "weight": 0.5,
+        "image": "silt_bean_tea.png"
+    },
+    {
+        "name": "Carrot Flower Nectar",
+        "description": "Nectar made from carrot flowers. Restores health and provides a minor buff to perception, favored by wasteland scouts.",
+        "alcohol": false,
+        "stats": {
+            "health": 15,
+            "perception": 1
+        },
+        "value": 10,
+        "weight": 0.5,
+        "image": "carrot_flower_nectar.png"
+    },
+    {
+        "name": "Vim",
+        "description": "A regional competitor to Nuka-Cola, this beverage restores health and provides a small boost to AP. Its unique taste has a dedicated fan base.",
+        "alcohol": false,
+        "stats": {
+            "health": 20,
+            "AP": 10
+        },
+        "value": 10,
+        "weight": 1,
+        "image": "vim.png"
+    },
+    {
+        "name": "Vim Refresh",
+        "description": "A special variant of Vim, Refresh restores health, boosts AP, and adds no rads, making it highly sought after.",
+        "alcohol": false,
+        "stats": {
+            "health": 25,
+            "AP": 15
+        },
+        "value": 20,
+        "weight": 1,
+        "image": "vim_refresh.png"
+    }
+]
