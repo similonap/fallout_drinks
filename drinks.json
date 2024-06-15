@@ -8,7 +8,7 @@
         },
         "value": 20,
         "weight": 0.5,
-        "image": "fo4_purified_water.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/fo4_purified_water.png"
     },
     {
         "name": "Dirty Water",
@@ -20,7 +20,7 @@
         },
         "value": 5,
         "weight": 0.5,
-        "image": "fo3_dirty_water.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/fo3_dirty_water.png"
     },
     {
         "name": "Nuka-Cola",
@@ -32,7 +32,7 @@
         },
         "value": 10,
         "weight": 1,
-        "image": "fallout4_nuka_cola.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/fallout4_nuka_cola.png"
     },
     {
         "name": "Nuka-Cherry",
@@ -45,7 +45,7 @@
         },
         "value": 15,
         "weight": 1,
-        "image": "nuka_cherry.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/nuka_cherry.png"
     },
     {
         "name": "Nuka-Cola Quantum",
@@ -57,7 +57,7 @@
         },
         "value": 50,
         "weight": 1,
-        "image": "fallout4_nuka_cola_quantum.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/fallout4_nuka_cola_quantum.png"
     },
     {
         "name": "Beer",
@@ -69,7 +69,7 @@
         },
         "value": 10,
         "weight": 1,
-        "image": "beer.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/beer.png"
     },
     {
         "name": "Whiskey",
@@ -82,7 +82,7 @@
         },
         "value": 20,
         "weight": 1,
-        "image": "whiskey.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/whiskey.png"
     },
     {
         "name": "Wine",
@@ -94,7 +94,7 @@
         },
         "value": 15,
         "weight": 1,
-        "image": "wine.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/wine.png"
     },
     {
         "name": "Mutfruit Juice",
@@ -106,7 +106,7 @@
         },
         "value": 10,
         "weight": 0.5,
-        "image": "mutfruit_juice.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/mutfruit_juice.png"
     },
     {
         "name": "Gwinett Stout",
@@ -119,7 +119,7 @@
         },
         "value": 20,
         "weight": 1,
-        "image": "gwinett_stout.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/gwinett_stout.png"
     },
     {
         "name": "Gwinett Ale",
@@ -131,7 +131,7 @@
         },
         "value": 10,
         "weight": 1,
-        "image": "gwinett_ale.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/gwinett_ale.png"
     },
     {
         "name": "Nuka-Cola Dark",
@@ -144,7 +144,7 @@
         },
         "value": 30,
         "weight": 1,
-        "image": "nuka-cola_dark.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/nuka-cola_dark.png"
     },
     {
         "name": "Nuka-Cola Victory",
@@ -157,7 +157,7 @@
         },
         "value": 25,
         "weight": 1,
-        "image": "nuka-cola_victory.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/nuka-cola_victory.png"
     },
     {
         "name": "Nuka-Cola Quartz",
@@ -170,7 +170,7 @@
         },
         "value": 25,
         "weight": 1,
-        "image": "nuka-cola_quartz.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/nuka-cola_quartz.png"
     },
     {
         "name": "Melon Juice",
@@ -182,7 +182,7 @@
         },
         "value": 8,
         "weight": 0.5,
-        "image": "melon_juice.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/melon_juice.png"
     },
     {
         "name": "Irradiated Blood",
@@ -194,7 +194,7 @@
         },
         "value": 10,
         "weight": 0.5,
-        "image": "irradiated_blood.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/irradiated_blood.png"
     },
     {
         "name": "Silt Bean Tea",
@@ -206,7 +206,7 @@
         },
         "value": 12,
         "weight": 0.5,
-        "image": "silt_bean_tea.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/silt_bean_tea.png"
     },
     {
         "name": "Carrot Flower Nectar",
@@ -218,7 +218,7 @@
         },
         "value": 10,
         "weight": 0.5,
-        "image": "carrot_flower_nectar.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/carrot_flower_nectar.png"
     },
     {
         "name": "Vim",
@@ -230,7 +230,7 @@
         },
         "value": 10,
         "weight": 1,
-        "image": "vim.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/vim.png"
     },
     {
         "name": "Vim Refresh",
@@ -242,6 +242,6 @@
         },
         "value": 20,
         "weight": 1,
-        "image": "vim_refresh.png"
+        "image": "https://raw.githubusercontent.com/similonap/fallout_drinks/main/vim_refresh.png"
     }
 ]
